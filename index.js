@@ -16,10 +16,14 @@ function divide(num1, num2){
   return num1 / num2;
 }
 
-function inc(num1){
-  return num1++;
+function inc(n){
+  return n++;
 }
 
-function dec(num1){
-  return num1--
+inc(960)
+
+function dec(n){
+  return n--
 }
+
+dec(797)
