@@ -17,13 +17,10 @@ function divide(num1, num2){
 }
 
 function inc(n){
-  return n++;
+  return n+=;
 }
 
-inc(960)
 
 function dec(n){
-  return n--
+  return n-=;
 }
-
-dec(797)
